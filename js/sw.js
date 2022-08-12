@@ -1,6 +1,6 @@
 
 
-let version = "version 2";
+let version = "version 1";
 const archivos = [
 			'../',
 			'../index.html',
@@ -54,8 +54,7 @@ self.addEventListener("fetch", e =>{
 		const respuestaEnCache = await caches.match(e.request);
 		if (respuestaEnCache){
 			return respuestaEnCache
-		}
-		if (respuestaEnCache === false) {
+		}else{
 			return e.request
 		}
 	})
