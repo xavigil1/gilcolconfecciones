@@ -1,6 +1,6 @@
 
 
-let version = "version 2";
+let version = "version 1";
 const archivos = [
 			'../',
 			'../index.html',
@@ -14,6 +14,7 @@ const archivos = [
 			'../galas.html',
 			'../novias.html',
 			'../vniñas.html',
+			'../newcollection.html',
 			'../css/estilos.css',
 			'../css/estilos2.css',
 			'../css/estilos3.css',
