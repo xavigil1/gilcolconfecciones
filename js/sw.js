@@ -15,6 +15,7 @@ const archivos = [
 			'../novias.html',
 			'../vniñas.html',
 			'../newcollection.html',
+			'../collectionDec22.html',
 			'../css/estilos.css',
 			'../css/estilos2.css',
 			'../css/estilos3.css',

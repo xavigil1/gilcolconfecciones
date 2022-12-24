@@ -64,6 +64,15 @@
 	color: rgba(0, 0, 0, .4);
 	overflow: hidden;
 }
+/*LETRAS NAVIDAD DORADO*/
+.img .dec22{
+	color: rgba(234, 190, 63, .4) !important;
+}
+
+.img .h1P{
+	color: #CFB53B !important;
+}
+/*FIN NAVIDAD*/
 
 .img h1{
 	text-align: center;

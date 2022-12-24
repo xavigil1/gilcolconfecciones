@@ -114,6 +114,10 @@
 	overflow: hidden;
 }
 
+.img .dec22{
+	color: rgba(234, 190, 63, .4) !important;
+}
+
 .img h1{
 	text-align: center;
 	font-family: 'Lucida Bright', serif;
@@ -124,6 +128,10 @@
 	margin-left: 70px;
 	padding-top: 5vh;
 	font-size: 1.7rem;
+}
+
+.img .h1P{
+	color: #CFB53B !important;
 }
 
 
