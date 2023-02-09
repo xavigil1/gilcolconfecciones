@@ -55,14 +55,13 @@
 
 .img p{
 	position: relative;
-
 	z-index: 100;
 	font-family: 'Lucida Bright', serif;
 	font-size: 680px;
 	font-family: 'Libre Baskerville', serif;
 	padding-top: 55px;
 	margin-left: -110%;
-	color: rgba(0, 0, 0, .4);
+	color: rgba(205, 205, 205, .3);
 	overflow: hidden;
 }
 
@@ -71,7 +70,7 @@
 	font-family: 'Lucida Bright', serif;
 	z-index: 100;
 	position: absolute;
-	color: #000;
+	color: rgba(0, 0, 0, .7) !important;
 	width: 15vw;
 	margin-left: 70px;
 	padding-top: 5vh;

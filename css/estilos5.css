@@ -60,7 +60,7 @@
 	font-family: 'Libre Baskerville', serif;
 	padding-top: 55px;
 	margin-left: -105%;
-	color: rgba(0, 0, 0, .4);
+	color: rgba(205, 205, 205, .6);
 	overflow: hidden;
 }
 
@@ -69,7 +69,7 @@
 	font-family: 'Lucida Bright', serif;
 	z-index: 100;
 	position: absolute;
-	color: #000;
+	color: rgba(0, 0, 0, .7) !important;
 	width: 15vw;
 	margin-left: 35px;
 	padding-top: 22vh;

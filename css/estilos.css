@@ -66,11 +66,11 @@
 }
 /*LETRAS NAVIDAD DORADO*/
 .img .dec22{
-	color: rgba(234, 190, 63, .4) !important;
+	color: rgba(205, 205, 205, .3) !important;
 }
 
 .img .h1P{
-	color: #CFB53B !important;
+	color: rgba(0, 0, 0, .7) !important;
 }
 /*FIN NAVIDAD*/
 
@@ -84,6 +84,28 @@
 	margin-left: 70px;
 	padding-top: 5vh;
 	font-size: 1.7rem;
+}
+
+.iframe-container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	flex-direction: column;
+	padding: 50px 0px;
+	font-family: 'Lucida Bright', serif;
+	font-weight: bold;
+}
+
+.iframe-container h6{
+	color: gray;
+}
+
+.map-container{
+	box-sizing: border-box;
+	width: 89%;
+	height: 250px;
+	margin-top: 40px;
 }
 
 
@@ -142,6 +164,10 @@
 		margin-left: 140px;
 		color: #000;
 		text-shadow: 2px 2px 2px #fff;
+	}
+
+	.iframe-container h2{
+		font-size: 20px;
 	}
 
 }

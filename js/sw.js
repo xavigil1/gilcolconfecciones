@@ -1,6 +1,6 @@
 
 
-let version = "version 1";
+let version = "version 2";
 const archivos = [
 			'../',
 			'../index.html',
